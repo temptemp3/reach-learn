@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T01:27:46.422Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="IkeoP0EPdJ8HTV8yJMeN" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-03T02:39:42.498Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-ZEOgZXkbdCCjsKdYL25" version="14.8.3" type="github">
   <diagram id="JWqnH68YOELqAhPtFyqL" name="Page-1">
-    <mxGraphModel dx="2513" dy="3176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="887" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -898,6 +898,15 @@
         </mxCell>
         <mxCell id="x9JddxEFcb-pDjUzWDCR-18" value="ETH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2370" y="228.8" width="60" height="22.4" as="geometry" />
+        </mxCell>
+        <mxCell id="7Iuuel0yorLGW1I5vMiL-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-128.png" vertex="1" parent="1">
+          <mxGeometry x="2250" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7Iuuel0yorLGW1I5vMiL-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-128.png" vertex="1" parent="1">
+          <mxGeometry x="2336" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7Iuuel0yorLGW1I5vMiL-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-128.png" vertex="1" parent="1">
+          <mxGeometry x="2420" y="960" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
