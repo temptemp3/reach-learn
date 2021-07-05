@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T12:21:44.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ztrm0pfC0ZEG1nmryGt8" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T12:37:01.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AJyGACpuSa7M-J8fnauK" version="14.8.4" type="github">
   <diagram id="JWqnH68YOELqAhPtFyqL" name="Page-1">
-    <mxGraphModel dx="2513" dy="3176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3770" dy="4179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1017,6 +1017,20 @@
         </mxCell>
         <mxCell id="BayRtDTZu3VlFncPiJkP-9" value="temptemp/FOMO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="1510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://github.com/reach-sh/reach-lang/tree/master/examples/rental" id="BayRtDTZu3VlFncPiJkP-10">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-128.png" vertex="1" parent="1">
+            <mxGeometry x="1240.5" y="1620" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="BayRtDTZu3VlFncPiJkP-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1" target="BayRtDTZu3VlFncPiJkP-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="1630" as="sourcePoint" />
+            <mxPoint x="1350" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BayRtDTZu3VlFncPiJkP-12" value="examples" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1570" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
