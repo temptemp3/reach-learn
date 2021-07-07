@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T23:43:19.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="6jsBhMiFH8HH5nfn01mq" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T23:53:47.429Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="2_RPSby3EE2FDVCY1Abc" version="14.8.4" type="github">
   <diagram id="JWqnH68YOELqAhPtFyqL" name="Page-1">
-    <mxGraphModel dx="2984" dy="2889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6635" dy="5800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P4zGQBsl5h3b4HmR-ngJ-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="P4zGQBsl5h3b4HmR-ngJ-5">
+        <mxCell id="P4zGQBsl5h3b4HmR-ngJ-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="P4zGQBsl5h3b4HmR-ngJ-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2090" y="1020" as="sourcePoint" />
             <mxPoint x="1030" y="1260" as="targetPoint" />
@@ -1025,145 +1025,188 @@
           <mxGeometry x="1330" y="1570" width="50" height="20" as="geometry" />
         </mxCell>
         <UserObject label="" link="https://www.youtube.com/watch?v=NzX3LIOWhYs" id="9V3d-71UxQv5VBPhQEs--1">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-128.png" vertex="1" parent="1">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-128.png" parent="1" vertex="1">
             <mxGeometry x="2930" y="1160" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1" target="9V3d-71UxQv5VBPhQEs--4">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" target="9V3d-71UxQv5VBPhQEs--4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2945" y="1168.28" as="sourcePoint" />
             <mxPoint x="2995" y="1118.28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--4" value="Morra Interview" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--4" value="Morra Interview" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2942.5" y="1108.28" width="85" height="20" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Exercises&lt;/b&gt;&lt;/font&gt;" link="https://docs.reach.sh/workshop.html" id="9V3d-71UxQv5VBPhQEs--5">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
             <mxGeometry x="-460" y="310" width="160" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 24px&quot;&gt;1&lt;/font&gt;" link="https://docs.reach.sh/workshop-hash-lock.html" id="9V3d-71UxQv5VBPhQEs--6">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
             <mxGeometry x="-300" y="360" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9V3d-71UxQv5VBPhQEs--7" target="9V3d-71UxQv5VBPhQEs--8">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9V3d-71UxQv5VBPhQEs--7" target="9V3d-71UxQv5VBPhQEs--8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--7" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Modules&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--7" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Modules&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-200" y="390" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9V3d-71UxQv5VBPhQEs--8" target="9V3d-71UxQv5VBPhQEs--10">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9V3d-71UxQv5VBPhQEs--8" target="9V3d-71UxQv5VBPhQEs--10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 24px&quot;&gt;ref: Modules&lt;/font&gt;" link="https://docs.reach.sh/ref-programs-module.html" id="9V3d-71UxQv5VBPhQEs--8">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
             <mxGeometry x="-200" y="490" width="160" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9V3d-71UxQv5VBPhQEs--10" target="9V3d-71UxQv5VBPhQEs--13">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9V3d-71UxQv5VBPhQEs--10" target="9V3d-71UxQv5VBPhQEs--13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 24px&quot;&gt;ref: Compute: statements&lt;/font&gt;" link="https://docs.reach.sh/ref-programs-compute.html#%28part._ref-programs-compute-stmts%29" id="9V3d-71UxQv5VBPhQEs--10">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
             <mxGeometry x="-200" y="590" width="300" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9V3d-71UxQv5VBPhQEs--13" target="9V3d-71UxQv5VBPhQEs--15">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9V3d-71UxQv5VBPhQEs--13" target="9V3d-71UxQv5VBPhQEs--15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 24px&quot;&gt;export&lt;/font&gt;" link="https://docs.reach.sh/ref-programs-compute.html#%28part._ref-programs-compute-stmts%29" id="9V3d-71UxQv5VBPhQEs--13">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
             <mxGeometry x="-200" y="690" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9V3d-71UxQv5VBPhQEs--15" target="9V3d-71UxQv5VBPhQEs--17">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9V3d-71UxQv5VBPhQEs--15" target="9V3d-71UxQv5VBPhQEs--17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 24px&quot;&gt;import&lt;/font&gt;" link="https://docs.reach.sh/ref-programs-compute.html#%28part._ref-programs-compute-stmts%29" id="9V3d-71UxQv5VBPhQEs--15">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
             <mxGeometry x="-200" y="790" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9V3d-71UxQv5VBPhQEs--17" target="9V3d-71UxQv5VBPhQEs--19">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9V3d-71UxQv5VBPhQEs--17" target="9V3d-71UxQv5VBPhQEs--19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 24px&quot;&gt;package imports&lt;/font&gt;" link="https://docs.reach.sh/guide-packages.html" id="9V3d-71UxQv5VBPhQEs--17">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
             <mxGeometry x="10" y="790" width="190" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 24px&quot;&gt;reach-pkg&lt;/font&gt;" link="https://github.com/topics/reach-pkg" id="9V3d-71UxQv5VBPhQEs--19">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
             <mxGeometry x="10" y="890" width="190" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/education-degree-course-university-college-128.png" vertex="1" parent="1">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/education-degree-course-university-college-128.png" parent="1" vertex="1">
           <mxGeometry x="2500" y="988" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/free-game-icons/64/Chains.png" vertex="1" parent="1">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/free-game-icons/64/Chains.png" parent="1" vertex="1">
           <mxGeometry x="2490" y="1018" width="74" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--28" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font color=&quot;#ff3399&quot;&gt;Universities Unchained&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--28" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font color=&quot;#ff3399&quot;&gt;Universities Unchained&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2395" y="970" width="264" height="20" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;color: rgb(255 , 51 , 153) ; font-size: 24px&quot;&gt;Highest Bidder &lt;/span&gt;&lt;b style=&quot;color: rgb(255 , 51 , 153) ; font-size: 24px&quot;&gt;Auction&lt;/b&gt;&lt;/div&gt;" link="https://en.wikipedia.org/wiki/Morra_(game)" id="9V3d-71UxQv5VBPhQEs--30">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
             <mxGeometry x="2680" y="1300" width="200" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="https://www.youtube.com/watch?v=1JfOEf3o1hY" id="9V3d-71UxQv5VBPhQEs--31">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-128.png" vertex="1" parent="1">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-128.png" parent="1" vertex="1">
             <mxGeometry x="2930" y="1331.72" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" target="9V3d-71UxQv5VBPhQEs--33" parent="1">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" target="9V3d-71UxQv5VBPhQEs--33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2945" y="1339.9999999999998" as="sourcePoint" />
             <mxPoint x="2995" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--33" value="Action on Algorand" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--33" value="Action on Algorand" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2942.5" y="1280" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--34" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Timed English Auction&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--34" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Timed English Auction&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="4710" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--35" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--35" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="777" y="4726" as="sourcePoint" />
             <mxPoint x="2741.4285714285716" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--36" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Atomic Swap Auction&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--36" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Atomic Swap Auction&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="2950" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="2960" as="sourcePoint" />
             <mxPoint x="2730" y="1408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--38" value="&lt;span style=&quot;font-size: 24px&quot;&gt;NFT with Action&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--38" value="&lt;span style=&quot;font-size: 24px&quot;&gt;NFT with Action&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="3750" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9V3d-71UxQv5VBPhQEs--39" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9V3d-71UxQv5VBPhQEs--38">
+        <mxCell id="9V3d-71UxQv5VBPhQEs--39" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9V3d-71UxQv5VBPhQEs--38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="3500" as="sourcePoint" />
             <mxPoint x="2740" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 24px&quot;&gt;AMM?&lt;/font&gt;" link="https://www.algorand.com/" id="9V3d-71UxQv5VBPhQEs--40">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
             <mxGeometry x="2820" y="360" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 24px&quot;&gt;ASA?&lt;/font&gt;" link="https://www.algorand.com/" id="9V3d-71UxQv5VBPhQEs--41">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
             <mxGeometry x="2730" y="360" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="nGF0HYolYDOEiMFPAIwu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nGF0HYolYDOEiMFPAIwu-1" target="nGF0HYolYDOEiMFPAIwu-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="2220" />
+              <mxPoint x="1240" y="2220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 24px&quot;&gt;a&lt;/span&gt;" link="https://docs.reach.sh/workshop-rental.html" id="nGF0HYolYDOEiMFPAIwu-1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+            <mxGeometry x="860" y="2120" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nGF0HYolYDOEiMFPAIwu-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;RPS Ideas&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="2060" width="354" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nGF0HYolYDOEiMFPAIwu-3" value="&lt;span style=&quot;font-size: 24px&quot;&gt;React RPS Starter&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="964" y="2150" width="250" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 24px&quot;&gt;a&lt;/span&gt;" link="https://docs.reach.sh/workshop-rental.html" id="nGF0HYolYDOEiMFPAIwu-5">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+            <mxGeometry x="860" y="2280" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nGF0HYolYDOEiMFPAIwu-7" value="&lt;span style=&quot;font-size: 24px&quot;&gt;RPS Generator (Engine)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="964" y="2310" width="266" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 24px&quot;&gt;a&lt;/span&gt;" link="https://docs.reach.sh/workshop-rental.html" id="nGF0HYolYDOEiMFPAIwu-10">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+            <mxGeometry x="1200" y="2120" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nGF0HYolYDOEiMFPAIwu-12" value="&lt;span style=&quot;font-size: 24px&quot;&gt;i18n&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="2150" width="250" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 24px&quot;&gt;a&lt;/span&gt;" link="https://docs.reach.sh/workshop-rental.html" id="nGF0HYolYDOEiMFPAIwu-13">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+            <mxGeometry x="860" y="2400" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nGF0HYolYDOEiMFPAIwu-14" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Battle Royal RPS&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="964" y="2430" width="266" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
