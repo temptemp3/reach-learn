@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T14:57:01.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="R8xDNd0V0j293KZZ4M8U" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-19T11:46:24.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="wEIf68eSlMub0pJl2c99" version="14.9.8" type="github">
   <diagram id="JWqnH68YOELqAhPtFyqL" name="Page-1">
-    <mxGraphModel dx="11475" dy="12949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5038" dy="2852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="64ojM_o01oRGJlyqzZIt-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="64ojM_o01oRGJlyqzZIt-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1007.5" y="500" width="179" height="90" as="geometry" />
         </mxCell>
         <UserObject label="" link="https://discord.com/channels/628402598663290882/628402599309082635/877164486186901534" id="64ojM_o01oRGJlyqzZIt-3">
-          <mxCell style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxCell style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
             <mxGeometry x="1011" y="683.2" width="349" height="196.8" as="geometry" />
           </mxCell>
         </UserObject>
@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MvdbTgC7_QNQWsTqHOr7-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=#ffffff;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="1720" y="460" width="120" height="850" as="geometry" />
+          <mxGeometry x="1720" y="460" width="120" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="MvdbTgC7_QNQWsTqHOr7-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6FFCC;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="450" y="754" width="120" height="254" as="geometry" />
@@ -434,7 +434,7 @@
             <mxPoint x="780" y="1200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="64ojM_o01oRGJlyqzZIt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KKkGE1eCo8rrcUPM3MvS-113" target="KKkGE1eCo8rrcUPM3MvS-160">
+        <mxCell id="64ojM_o01oRGJlyqzZIt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KKkGE1eCo8rrcUPM3MvS-113" target="KKkGE1eCo8rrcUPM3MvS-160" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 24px&quot;&gt;6&lt;/font&gt;" link="https://docs.reach.sh/workshop-rps-fair.html" id="KKkGE1eCo8rrcUPM3MvS-113">
@@ -1001,8 +1001,8 @@
             <mxGeometry x="1150" y="1320" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="BayRtDTZu3VlFncPiJkP-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font color=&quot;#ff3399&quot;&gt;Conflux Chinese&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1810" y="1150" width="260" height="20" as="geometry" />
+        <mxCell id="BayRtDTZu3VlFncPiJkP-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font color=&quot;#ff3399&quot;&gt;Gateway to Blockchain &lt;i&gt;Conflux&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="1150" width="420" height="20" as="geometry" />
         </mxCell>
         <UserObject label="&lt;span style=&quot;font-size: 24px&quot;&gt;Jul 21&#39;&lt;br&gt;&lt;/span&gt;" link="https://www.youtube.com/watch?v=hOAchN_skX8" id="BayRtDTZu3VlFncPiJkP-3">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1600,42 +1600,70 @@
             <mxGeometry x="655" y="530" width="40" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="64ojM_o01oRGJlyqzZIt-1" value="&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Another great thing that would be great to have an interface is a multisig wallet contract.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="64ojM_o01oRGJlyqzZIt-1" value="&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Another great thing that would be great to have an interface is a multisig wallet contract.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1015" y="700" width="345" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="64ojM_o01oRGJlyqzZIt-2" value="&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;On launch you determine what the threshold of signature is, and who the ids are. Then when one person requests a transfer the remaining signatures to satisfy the threshold have to sign for it to go through&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="64ojM_o01oRGJlyqzZIt-2" value="&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;On launch you determine what the threshold of signature is, and who the ids are. Then when one person requests a transfer the remaining signatures to satisfy the threshold have to sign for it to go through&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1015" y="780" width="345" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="64ojM_o01oRGJlyqzZIt-4" value="Chris" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="64ojM_o01oRGJlyqzZIt-4" value="Chris" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1160" y="880" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="64ojM_o01oRGJlyqzZIt-8" value="idea" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="64ojM_o01oRGJlyqzZIt-8" value="idea" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1010" y="500" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="64ojM_o01oRGJlyqzZIt-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64ojM_o01oRGJlyqzZIt-11" target="64ojM_o01oRGJlyqzZIt-12">
+        <mxCell id="64ojM_o01oRGJlyqzZIt-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="64ojM_o01oRGJlyqzZIt-11" target="64ojM_o01oRGJlyqzZIt-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;span style=&quot;font-size: 24px&quot;&gt;ADA&lt;/span&gt;" link="https://confluxnetwork.org/" id="64ojM_o01oRGJlyqzZIt-11">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
             <mxGeometry x="2290" y="680" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 24px&quot;&gt;PoC&lt;/span&gt;" link="https://confluxnetwork.org/" id="64ojM_o01oRGJlyqzZIt-12">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" parent="1" vertex="1">
             <mxGeometry x="2450" y="680" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="64ojM_o01oRGJlyqzZIt-14" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Multisig Wallets Contracts!&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="64ojM_o01oRGJlyqzZIt-14" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Multisig Wallets Contracts!&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1007.5" y="640" width="302.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="64ojM_o01oRGJlyqzZIt-16" value="React App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="64ojM_o01oRGJlyqzZIt-16" value="React App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="642.5" y="730" width="65" height="20" as="geometry" />
         </mxCell>
         <UserObject label="" link="https://temptemp3.github.io/reach-react-trust-fund/" id="64ojM_o01oRGJlyqzZIt-17">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png" vertex="1" parent="1">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png" parent="1" vertex="1">
             <mxGeometry x="655" y="690" width="40" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="EmfawX25E1WR7eynqW6c-4" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font color=&quot;#ff3399&quot;&gt;Gateway to Blockchain&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1092" width="264" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;span style=&quot;color: rgb(255 , 51 , 153) ; font-size: 24px&quot;&gt;Liars Dice&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;color: rgb(255 , 51 , 153) ; font-size: 24px&quot;&gt;on Conflux&lt;/b&gt;&lt;/div&gt;" link="https://en.wikipedia.org/wiki/Morra_(game)" id="EmfawX25E1WR7eynqW6c-6">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="3310" y="1170" width="200" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://www.youtube.com/watch?v=ID-isnKrsd8" id="EmfawX25E1WR7eynqW6c-7">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-128.png" vertex="1" parent="1">
+            <mxGeometry x="3560" y="1201.72" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="EmfawX25E1WR7eynqW6c-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" target="EmfawX25E1WR7eynqW6c-9" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3575" y="1210" as="sourcePoint" />
+            <mxPoint x="3625" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmfawX25E1WR7eynqW6c-9" value="Liar&#39;s Dice&lt;br&gt;on Conflux" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3572.5" y="1150" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EmfawX25E1WR7eynqW6c-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3260" y="1140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EmfawX25E1WR7eynqW6c-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/geek-3/24/Pi_math_mathematics-128.png" vertex="1" parent="1">
+          <mxGeometry x="3263" y="1136" width="74" height="74" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
